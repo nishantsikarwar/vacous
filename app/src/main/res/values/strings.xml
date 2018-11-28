@@ -1,0 +1,45 @@
+<resources>
+    <string name="app_name">ComFlu18</string>
+    <string name="more">More</string>
+    <string name="time">Time</string>
+    <string name="lecturetitle">LectureTitle</string>
+    <string name="description">Description</string>
+    <string name="speaker">Speaker</string>
+    <string name="about">About</string>
+    <string name="coffee_break">Coffee break</string>
+    <string name="lunch">Lunch</string>
+    <string name="tba">t.b.a.</string>
+    <string name="headline">headline</string>
+    <string name="notification_title">Thank you for attending ComFLU 2018</string>
+    <string name="notification_text">We hope you can help us improve the event by providing some feedback information</string>
+    <string name="venue">Venue</string>
+<string name="venue_text">ComFLU 2018 will take place at Chemical Engineering Department IIT Roorkee</string>
+<string name="opensource">Open Source</string>
+<string name="opensource_text">List of tools and libraries used to make this app.</string>
+<string name="author">Author</string>
+<string name="author_text">This app has been developed by Nishant Sikarwar.</string>
+<string name="evaluation">Evaluation</string>
+<string name="evaluation_text">Please give us feedback on the event via this form.</string>
+    <string name="program_d2">CLICK HERE FOR PROGRAM DAY 2 !</string>
+    <string name="day">Day %1$d</string>
+    <string name="location">&#160;\u2022 %1$s</string>
+    <!-- libraries -->
+    <string name="define_OpenCSV"></string>
+    <string name="library_OpenCSV_author">Bytecode Pty Ltd</string>
+    <string name="library_OpenCSV_libraryName">OpenCSV</string>
+    <string name="library_OpenCSV_libraryDescription">opencsv is a very simple csv (comma-separated values) parser library for Java.</string>
+    <string name="library_OpenCSV_libraryVersion">3.1</string>
+    <string name="library_OpenCSV_libraryWebsite">http://opencsv.sourceforge.net/</string>
+    <string name="library_OpenCSV_licenseId">apache_2_0</string>
+    <string name="library_OpenCSV_isOpenSource">true</string>
+    <string name="library_OpenCSV_repositoryLink">http://opencsv.sourceforge.net</string>
+    <string name="define_PrettySharedPreferences"></string>
+    <string name="library_PrettySharedPreferences_author">Nguyen Truong Giang</string>
+    <string name="library_PrettySharedPreferences_libraryName">PrettySharedPreferences</string>
+    <string name="library_PrettySharedPreferences_libraryDescription">PrettySharedPreferences is a lightweight library to help you deal with SharedPreferences more easily and reduce boilerplate code.</string>
+    <string name="library_PrettySharedPreferences_libraryVersion">1.0.1</string>
+    <string name="library_PrettySharedPreferences_libraryWebsite">https://github.com/talenguyen/PrettySharedPreferences</string>
+    <string name="library_PrettySharedPreferences_licenseId">apache_2_0</string>
+    <string name="library_PrettySharedPreferences_isOpenSource">true</string>
+    <string name="library_PrettySharedPreferences_repositoryLink">https://github.com/talenguyen/PrettySharedPreferences</string>
+</resources>

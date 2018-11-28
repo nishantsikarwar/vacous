@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="97dp"
+    android:padding="7sp">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/dateStart"
+        style="@style/textStyle"
+        android:padding="3sp"
+        android:text="@string/time"/>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/location"
+        android:padding="3sp"
+        style="@style/textStyle"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentEnd="true"
+        android:text="@string/location"/>
+
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/headline"
+        android:transitionName="headline"
+        android:textColor="@color/textColorSecondary"
+        android:textSize="17sp"
+        android:maxLines="1"
+        android:layout_marginTop="7sp"
+        android:layout_marginBottom="17sp"
+        android:layout_below="@id/dateStart"
+        android:text="@string/lecturetitle"
+        />
+
+
+    <ImageView
+        android:layout_width="17sp"
+        android:layout_height="17sp"
+        android:id="@+id/favorite"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentEnd="true"/>
+</RelativeLayout>
