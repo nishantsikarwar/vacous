@@ -115,7 +115,7 @@
 
             <TextView
                 android:layout_width="match_parent"
-                android:layout_height="39dp"
+                android:layout_height="wrap_content"
                 android:textSize="14sp"
                 android:gravity="center_vertical"
                 android:layout_below="@+id/speaker_title"
